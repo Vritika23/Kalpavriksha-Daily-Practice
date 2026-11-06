@@ -1,0 +1,1 @@
+// 5. [H] Read N non-negative numbers into a dynamic array where every number appears twice except two numbers that appear only once. Find those two numbers using XOR (no extra array). Then sort the array by number of set bits (if same, smaller number first) using pointers and print each number with its binary form. Pattern: bit manipulation. C focus: malloc, pointers, &, ^, >>.
