@@ -1,0 +1,1 @@
+// 4. [M] Find the second largest and second smallest in one pass and return both through pointer parameters. Handle duplicates and arrays with fewer than two distinct values. Pattern: tracking extremes. C focus: call by address.
